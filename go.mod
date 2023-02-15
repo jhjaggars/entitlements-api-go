@@ -11,11 +11,13 @@ require (
 	github.com/karlseguin/expect v1.0.1 // indirect
 	github.com/onsi/ginkgo v1.10.3
 	github.com/onsi/gomega v1.7.1
-	github.com/prometheus/client_golang v1.9.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/redhatinsights/platform-go-middlewares v0.19.0
 	github.com/sirupsen/logrus v1.8.1
 	github.com/spf13/viper v1.3.2
 	github.com/wsxiaoys/terminal v0.0.0-20160513160801-0940f3fc43a0 // indirect
+	go.uber.org/zap v1.13.0 // indirect
+	golang.org/x/tools v0.0.0-20200103221440-774c71fcf114 // indirect
 	gopkg.in/karlseguin/expect.v1 v1.0.1 // indirect
 	gopkg.in/yaml.v2 v2.3.0
 )
